@@ -150,7 +150,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                  ]]))
 
     else:
-        update.effective_message.reply_text("Stylishking1706- May I Coming")
+        update.effective_message.reply_text("Stylishking1706- Love is My life")
 
 
 def send_start(bot, update):
